@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/SantiRock/Frontend-Mentor-nft-preview-card-component-main)
-- Live Site URL: [Live site URL here](https://santirock.github.io/Frontend-Mentor-nft-preview-card-component-main/)
+- Solution URL: [Solution URL here](https://santirockk.github.io/nft-preview-card-component-main/)
+- Live Site URL: [Live site URL here](https://santirockk.github.io/nft-preview-card-component-main/)
 
 ### Built with
 
